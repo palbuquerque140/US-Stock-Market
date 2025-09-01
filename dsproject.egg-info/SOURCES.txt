@@ -1,0 +1,8 @@
+README.md
+setup.py
+dsproject.egg-info/PKG-INFO
+dsproject.egg-info/SOURCES.txt
+dsproject.egg-info/dependency_links.txt
+dsproject.egg-info/requires.txt
+dsproject.egg-info/top_level.txt
+src/__init__.py
