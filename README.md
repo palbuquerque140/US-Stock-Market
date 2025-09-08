@@ -6,3 +6,6 @@ Goals:
 
 - Binary Classification problem: Given the input data, should a trader buy a stock or not.
 - Regression problem: Calculate the Folowing Year Price Variation in %
+
+
+test
